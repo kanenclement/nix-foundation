@@ -1,4 +1,4 @@
-name: This is an example
+name: Environment Variables Test
 
 on: [pull_request]
 
